@@ -9,4 +9,6 @@ Tecnologias que estou estudando:
 
 ## Personal
 
-![Loading](https://gifs.eco.br/wp-content/uploads/2022/02/Gifs-de-gatinho-com-sono-3-1.gif))
+![Loading](https://gifs.eco.br/wp-content/uploads/2022/02/Gifs-de-gatinho-com-sono-3-1.gif)
+
+[![clica aí, confia!](https://media.tenor.com/IzR3EcMppl4AAAAd/cat-flip.gif)](https://www.youtube.com/)
