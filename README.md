@@ -1,5 +1,7 @@
 # Eduardo's Portfolio
-Estudante de Engenharia de Controle e Automação na UNICAMP.
+## Estudante de Engenharia de Controle e Automação na UNICAMP.
 
-Tecnologias que estou estudando:
-- Python - C - C++
+### Tecnologias que estou estudando:
+- Python 
+- C
+- C++
