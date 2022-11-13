@@ -11,4 +11,4 @@ Tecnologias que estou estudando:
 
 ![Loading](https://gifs.eco.br/wp-content/uploads/2022/02/Gifs-de-gatinho-com-sono-3-1.gif)
 
-[![clica aí, confia!](https://media.tenor.com/IzR3EcMppl4AAAAd/cat-flip.gif)](https://www.youtube.com/)
+[![clica aí, confia!](https://media.tenor.com/IzR3EcMppl4AAAAd/cat-flip.gif)](https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights)
